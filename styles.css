@@ -1,0 +1,15 @@
+/*Comment*/
+* {
+    color:white
+}
+
+
+/*Background*/
+html {
+background-color: grey;
+}
+
+/*Div Class*/
+.container{
+    background-color:black 
+}
